@@ -1220,7 +1220,7 @@ a{
 
 .cont {
   width: 280px;
-  height: 350px;
+  height: 380px;
   position: relative;
   margin: auto;
   background: url("post.jpg!bw700");
@@ -2763,4 +2763,5 @@ p {
    padding-bottom: 10%;
    padding-top: -20%;
     
+
 }
